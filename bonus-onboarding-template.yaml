@@ -6,7 +6,7 @@ metadata:
   description: A template to create a new cookiecutter datascience app
   tags:
     - workshop
-    - yournamehere
+    - ignaciosoler
 spec:
   owner: platformteam
   type: service
